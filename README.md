@@ -73,7 +73,12 @@ _________
  ```
  $ allure serve allure-results
 ```
+
+![](https://files.slack.com/files-pri/T27SFGS2W-F02CD5LUWSJ/screen_shot_2021-08-27_at_12.57.49_pm.png)
+
 * the report will be published and opened in a browser tab as following:
 
+
+![](https://files.slack.com/files-pri/T27SFGS2W-F02CGSRTFB7/screen_shot_2021-08-27_at_12.57.27_pm.png)
 
 
