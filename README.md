@@ -73,6 +73,7 @@ _________
  ```
  $ allure serve allure-results
 ```
+![image](https://user-images.githubusercontent.com/66884373/131124940-da06d705-30fd-40be-b8fe-271dfff80974.png)
 
 
 * the report will be published and opened in a browser tab as following:
